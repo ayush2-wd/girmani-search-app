@@ -11,7 +11,7 @@ This project is a user search application built with Next.js. It enables users t
 
 ## Live Demo
 
-You can view the live application here: [Live URL](http://example.com)
+You can view the live application here: [Live URL](https://girmani-search-app.vercel.app/)
 
 ## Screenshots
 
